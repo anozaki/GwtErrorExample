@@ -8,6 +8,6 @@ public class AbstractTest2< T extends JavaScriptObject> extends JavaScriptObject
 
     }
 
-    public void getInfo(AbstractTest<T> asdf) {  
+    public final void getInfo(AbstractTest<T> asdf) {  
     }
 }
